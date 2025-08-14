@@ -15,6 +15,7 @@ This tool is designed to be **extensible**, **easy to use**, and **developer-fri
 ---
 
 ## 📂 Project Structure
+---
 config_manager_Group27/
 │
 ├── pycache/ # Python cache files
@@ -34,7 +35,7 @@ config_manager_Group27/
 ├── validator.py # Validation logic
 ├── main.py # Entry point
 └── README.md # This file
-
+---
 
 ---
 
