@@ -5,7 +5,7 @@ This tool is designed to be **extensible**, **easy to use**, and **developer-fri
 
 ---
 
-## ✨ Features
+##Features
 - **Multi-format parsing**: INI, JSON, XML support.
 - **Validation**: Validate configs against JSON schema files.
 - **Modular design**: Easy to add new file formats or validation rules.
@@ -14,28 +14,28 @@ This tool is designed to be **extensible**, **easy to use**, and **developer-fri
 
 ---
 
-## 📂 Project Structure
----
+<h2>Project Structure</h2>
+<pre>
 config_manager_Group27/
 │
-├── pycache/ # Python cache files
-├── example_files/ # Sample config and schema files
-│ ├── config.ini
-│ ├── config.json
-│ ├── config.xml
-│ ├── config_schema.json
-│ └── schema.json
-├── cli.py # Command-line interface
-├── ini_parser.py # INI file parser
-├── json_parser.py # JSON file parser
-├── xml_parser.py # XML file parser
-├── manager.py # Main manager logic
-├── parser_base.py # Base parser class
-├── utils.py # Helper functions
-├── validator.py # Validation logic
-├── main.py # Entry point
-└── README.md # This file
----
+├── __pycache__/               # Python cache files
+├── example_files/             # Sample config and schema files
+│   ├── config.ini
+│   ├── config.json
+│   ├── config.xml
+│   ├── config_schema.json
+│   └── schema.json
+├── cli.py                     # Command-line interface
+├── ini_parser.py              # INI file parser
+├── json_parser.py             # JSON file parser
+├── xml_parser.py              # XML file parser
+├── manager.py                 # Main manager logic
+├── parser_base.py             # Base parser class
+├── utils.py                   # Helper functions
+├── validator.py               # Validation logic
+├── main.py                    # Entry point
+└── README.md                  # This file
+</pre>
 
 Authors
 Group 27 – CSC202 Project
