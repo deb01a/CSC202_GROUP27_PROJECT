@@ -1,0 +1,29 @@
+{
+  "server": {
+    "host": {
+      "type": "string",
+      "required": true
+    },
+    "port": {
+      "type": "int",
+      "required": true,
+      "min": 1,
+      "max": 65535
+    }
+  },
+  "database": {
+    "user": {
+      "type": "string",
+      "required": true
+    },
+    "password": {
+      "type": "string",
+      "required": true
+    },
+    "max_connections": {
+      "type": "int",
+      "required": false,
+      "min": 1
+    }
+  }
+}

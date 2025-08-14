@@ -1,0 +1,11 @@
+<configuration>
+  <server>
+    <host>192.168.1.1</host>
+    <port>8080</port>
+  </server>
+  <database>
+    <user>dbuser</user>
+    <password>secret</password>
+    <max_connections>75</max_connections>
+  </database>
+</configuration>
