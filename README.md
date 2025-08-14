@@ -37,17 +37,7 @@ config_manager_Group27/
 └── README.md # This file
 ---
 
----
-
-## 🚀 How to Use
-1. Modify or create your own config files in **INI**, **JSON**, or **XML**.
-2. Use the CLI to parse, validate, or display configurations:
-   ```bash
-   python cli.py parse example_files/config.json
-   python cli.py validate example_files/config.json example_files/config_schema.json
-
 Authors
-
 Group 27 – CSC202 Project
 
 Adebola Ajagbe Benjamin – 2023005749 (@deb01a)
