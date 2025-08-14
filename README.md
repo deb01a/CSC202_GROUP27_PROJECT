@@ -40,9 +40,9 @@ config_manager_Group27/
 Authors
 Group 27 – CSC202 Project
 
-Adebola Ajagbe Benjamin – 2023005749 (@deb01a)
-
 Abdulsemiu Zainab Odunayo – 2023007472 (Leader)
+
+Adebola Ajagbe Benjamin – 2023005749 (@deb01a)
 
 Okelola Malik Oyewale – 2023003935
 
